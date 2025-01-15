@@ -21,7 +21,7 @@ The Dice Roll game is a fun and interactive way to:
 - Introduce beginners to concepts like probability and randomness in a simple, engaging manner.
 - Provide a quick, entertaining program for casual play or educational demonstrations.
 
-###How It Works
+### How It Works
 
 - The user is prompted to enter a guess.
 - The program rolls two dice with 6 sides (default).
@@ -33,12 +33,12 @@ The Dice Roll game is a fun and interactive way to:
 
 Python 2.x (Uses raw_input and print statements with % formatting specific to Python 2).
 
-###Installation
+### Installation
 
 - Clone or download the repository containing this program.
 - Ensure you have Python 2.x installed on your system.
 
-###Usage
+### Usage
 
 - Run the program in a Python 2.x interpreter:
 python dice_roll.py
@@ -61,7 +61,7 @@ The second roll is 4
 Result...
 You have won!
 
-###Customization
+### Customization
 
 - You can customize the number of sides on the dice by modifying the roll_dice function. For example:
 first_roll, second_roll, max_val = roll_dice(10)
@@ -138,7 +138,7 @@ The Rock, Paper, Scissors game is ideal for:
 - Providing a quick and entertaining game for casual play or demonstrations.
 - Introducing beginners to programming through a simple yet engaging project.
 
-###How It Works
+### How It Works
 
 - The user is prompted to input their choice (Rock, Paper, or Scissors).
 - The computer randomly selects one of the three options.
@@ -154,12 +154,12 @@ Paper beats Rock.
 
 Python 2.x (Uses raw_input and print statements with % formatting specific to Python 2).
 
-###Installation
+### Installation
 
 - Clone or download the repository containing this program.
 - Ensure you have Python 2.x installed on your system.
 
-###Usage
+### Usage
 
 - Run the program in a Python 2.x interpreter:
 
@@ -180,7 +180,7 @@ You selected ROCK
 Computer selected SCISSORS
 Yay you won!
 
-###Customization
+### Customization
 
 - You can customize the game by modifying the options list or adding more detailed messages in the message dictionary. For example:
 
