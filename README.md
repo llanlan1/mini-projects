@@ -1,6 +1,4 @@
-It seems the formatting issues in your README file are caused by improper use of Markdown syntax, especially with headings and lists. Here's a cleaned-up version of your README file with consistent formatting:  
 
-```markdown
 # Mini Projects by Lan  
 
 ## dice_roll.py  
